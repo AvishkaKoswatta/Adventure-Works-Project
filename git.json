@@ -1,0 +1,54 @@
+[
+{
+"relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Returns.csv",
+"sink_folder_Parameter":"Returns",
+"filename_parameter":"returns.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+    "sink_folder_Parameter":"Sales_2015",
+    "filename_parameter":"sales_2015.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+    "sink_folder_Parameter":"Sales_2016",
+    "filename_parameter":"sales_2016.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+    "sink_folder_Parameter":"Sales_2017",
+    "filename_parameter":"sales_2017.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Products.csv",
+    "sink_folder_Parameter":"Products",
+    "filename_parameter":"products.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Customers.csv",
+    "sink_folder_Parameter":"Customers",
+    "filename_parameter":"customers.csv"
+},
+
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+    "sink_folder_Parameter":"Calendar",
+    "filename_parameter":"calendar.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+    "sink_folder_Parameter":"Product_Categories",
+    "filename_parameter":"product_categories.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "sink_folder_Parameter":"Product_Subcategories",
+    "filename_parameter":"product_Subcategories.csv"
+},
+{
+    "relative_url_parameter": "AvishkaKoswatta/Adventure-Works-Dataset/refs/heads/main/Data/AdventureWorks_Territories.csv",
+    "sink_folder_Parameter":"Territories",
+    "filename_parameter":"territories.csv"
+}
+
+]
